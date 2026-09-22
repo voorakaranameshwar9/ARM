@@ -1,4 +1,4 @@
-﻿ Association-rule-mining
+﻿## Association-rule-mining
 
 
 A full-stack data mining application to discover purchasing patterns in grocery transaction datasets using **Apriori**, **FP-Growth**, and **ECLAT** algorithms.
