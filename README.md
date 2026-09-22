@@ -1,11 +1,11 @@
 ﻿# Association-rule-mining
-# 🛒 Grocery Association Rule Mining Web Application
+#  Grocery Association Rule Mining Web Application
 
 A full-stack data mining application to discover purchasing patterns in grocery transaction datasets using **Apriori**, **FP-Growth**, and **ECLAT** algorithms.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Upload Datasets:** Easily upload CSV transaction datasets.
 - **Run Algorithms:** Execute Apriori, FP-Growth, and ECLAT with custom Minimum Support and Minimum Confidence values.
@@ -14,7 +14,7 @@ A full-stack data mining application to discover purchasing patterns in grocery 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** React, Vite, Tailwind CSS
 - **Backend:** Node.js, Express.js, Multer
@@ -26,10 +26,4 @@ A full-stack data mining application to discover purchasing patterns in grocery 
 
 ---
 
-## 💻 How to Run Locally
 
-### 1. Start the Backend Server
-```bash
-cd backend
-npm install
-npm run dev
